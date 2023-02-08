@@ -1,0 +1,37 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+
+
+/* BODY */
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+.wrapper {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.blueviolet {
+    background-color: blueviolet;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
